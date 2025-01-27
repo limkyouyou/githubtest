@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-    std::cout << "We da worst!\n";
+    std::cout << "We da heyehye!\n";
 
     for (int i = 0; i < 5; ++i) {
         cout << "I get it now...";
