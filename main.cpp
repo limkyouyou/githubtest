@@ -8,7 +8,7 @@ int main() {
         cout << "I get it now...";
     }
 
-    cout << "This is V5";
+    cout << "This is V6";
 
     cout << "one more line...";
 
