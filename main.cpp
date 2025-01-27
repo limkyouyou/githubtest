@@ -4,6 +4,9 @@ int main() {
 
     std::cout << "We da worst!\n";
 
+    for (int i = 0; i < 5; ++i) {
+        cout << "I get it now...";
+    }
 
     return 0;
 }
