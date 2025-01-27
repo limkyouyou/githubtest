@@ -8,7 +8,11 @@ int main() {
         cout << "I get it now...";
     }
 
+<<<<<<< HEAD
+    cout << "This is V7";
+=======
     cout << "This is V6";
+>>>>>>> upstream/main
 
     cout << "one more line...";
 
